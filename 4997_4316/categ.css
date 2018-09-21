@@ -1,0 +1,42 @@
+body {
+	background-color: #fdffaf;
+}
+
+.lnks {
+	text-align:right;
+	font-family: "Times New Roman",fantasy;
+	font-size: 20px;
+}
+
+h1 {
+	text-align:center;
+	font-family: "Times New Roman",fantasy;
+	font-size: 40px;
+}
+
+p {
+	font-family: "Times New Roman",fantasy;
+	font-size: 20px;
+	font-weight:bold;
+	text-decoration: underline;
+	margin-left: 20%;
+}
+
+.c_add {
+	text-align:left;
+	font-family: "Times New Roman",fantasy;
+	font-size: 18px;
+	margin-left:20%;
+	background-color: #fdd999;
+	width:50%;
+}
+
+.c_del {
+	text-align:left;
+	font-family: "Times New Roman",fantasy;
+	font-size: 18px;
+	margin-left:20%;
+	background-color: #fdd999;
+	width:50%;
+}
+

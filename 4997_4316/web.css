@@ -1,0 +1,72 @@
+	body{
+		background-color: #fdffaf;
+	}
+
+	.bg-img {
+		background-image: url('n5.jpg');
+		background-color: #ffffff;
+		height: 210px;
+	}
+
+	.bar p{
+		font-family: "Times New Roman",fantasy;
+		font-size: 15px;
+		text-align: right;
+	}
+
+	.bar form {
+		font-family: "Times New Roman",fantasy;
+		font-size: 15px;
+		text-align: right;
+	}
+	.arxi{
+		text-align: center;
+	}
+	.arxi h1{
+		font-family: "Times New Roman",fantasy;
+		font-weight: bold;
+		font-size: 35px;
+	}
+
+	.arxi p{
+		margin-right: auto;
+		margin-left:auto;
+		font-family: "Times New Roman",fantasy;
+		font-size: 20px;
+		width:70%	
+	}
+	
+	.xartis{
+		width:700px;
+		height:400px;
+		background-color: #fff;
+		position:relative;
+		float:left;
+		margin-left: 35px;
+		margin-bottom: 20px;
+	}
+
+	.stat{
+		background-color: #b4d5f6;
+		font-family: "Times New Roman", fantasy;
+		width:35%;
+		margin-right: 35px;
+		float:right;
+		text-align:left;
+	}
+
+	.stat h4{
+		font-size:20px;
+		font-weight:bold;
+	}
+	.stat section{
+		font-size:18px;
+	}
+
+
+
+
+
+	
+
+

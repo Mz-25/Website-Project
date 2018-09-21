@@ -1,0 +1,42 @@
+@media screen{
+body{
+	background-color: #fdffaf;
+}
+
+h1{
+	font-family: "Times New Roman", fantasy;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;	
+}
+
+p{
+	font-family: "Times New Roman", fantasy;
+	font-size: 20px;
+	text-align: right;
+}
+
+.forma{
+	text-align: left;
+	width:55%;
+	font-family: "Times New Roman", fantasy;
+	margin-right: auto;
+    margin-left: auto;
+}
+
+.forma h2{
+	
+	font-size: 25px;
+}
+
+.forma form{
+	font-size: 20px;
+}
+.xartis{
+	width:600px;
+	height:400px;
+	background-color: #fff;
+	margin-right: auto;
+	margin-left: auto;
+	}
+}

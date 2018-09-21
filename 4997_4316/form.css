@@ -1,0 +1,42 @@
+@media screen{
+body{
+	background-color: #fdffaf;
+}
+
+h1{
+	font-family: "Times New Roman", fantasy;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;	
+}
+
+p{
+	font-family: "Times New Roman", fantasy;
+	font-size: 18px;
+	text-align: right;
+}
+
+.forma{
+	font-family: "Times New Roman", fantasy;
+	text-align: center;
+	width:55%;
+	border-style: double;
+	margin-right: auto;
+    margin-left: auto;
+}
+
+.forma h2{
+	
+	font-size: 25px;
+}
+
+.forma form{
+	font-family: "Times New Roman", fantasy;
+	font-size: 20px;
+}
+
+.forma p{
+font-style:italic;
+font-size: 15px;
+text-align:center;}
+}

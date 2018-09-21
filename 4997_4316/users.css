@@ -1,0 +1,47 @@
+body {
+	background-color: #fdffaf;
+}
+
+.links {
+text-align: right;
+font-size: 20px;
+}
+
+
+
+h1 {
+  font-family: "Times New Roman",fantasy;
+  font-weight: bold;
+  font-size: 40px;
+  text-align:center;
+  }
+  
+.editing {
+font-family: "Times New Roman", fantasy;
+font-size: 18px;
+margin-left: 20%;
+width:60%;
+background-color: #FDD999;
+}
+
+.deleting {
+font-family: "Times New Roman", fantasy;
+font-size: 18px;
+margin-left: 20%;
+background-color: #FDD999;
+width:60%;
+
+}
+
+h4 {
+font-size: 20px;
+font-weight:bold;
+text-decoration: underline;
+margin-left: 20%;
+}
+
+
+
+
+
+
